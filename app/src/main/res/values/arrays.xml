@@ -9,4 +9,12 @@
         <item>reply</item>
         <item>reply_all</item>
     </string-array>
+
+    <!-- Custom Arrays -->
+    <string-array name="dropdown_options">
+        <item>COMP500 - Programming 1</item>
+        <item>other option</item>
+        <item>COMP835 - Secret class</item>
+    </string-array>
+
 </resources>

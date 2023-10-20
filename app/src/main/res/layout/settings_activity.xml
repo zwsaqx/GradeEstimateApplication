@@ -6,9 +6,8 @@
     android:orientation="vertical"
     android:gravity="top|center"
     android:layout_margin="15dp"
-    android:textColor="@color/black"
+    android:textColor="@color/black">
 
-    > <!-- padding so buttons don't touch screen edges -->
     <Button
         android:id="@+id/backButton"
         android:layout_width="wrap_content"

@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="This is a Grade Estimation  app that uses Artificial Intelligence to estimate your probable grade based on past student’s experience, your time spend on social media, at uni, on assignments, etc... If you choose to allow web, app and location usage the grade estimation will be more accurate. Enjoy!"
+            android:text="This is a Grade Estimation app that uses Artificial Intelligence to estimate your probable grade based on past student’s experience, your time spend on social media, at uni, on assignments, etc... If you choose to allow web, app and location usage the grade estimation will be more accurate. However, this is optional for the privacy of students."
             android:textSize="20sp" />
 
         <TextView
