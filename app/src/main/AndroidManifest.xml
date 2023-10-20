@@ -13,7 +13,7 @@
         android:theme="@style/Theme.GradeEstimatorApplication"
         tools:targetApi="31">
         <activity
-            android:name=".SettingsActivity"
+            android:name=".SecondActivity"
             android:exported="false"
             android:label="@string/title_activity_settings" />
         <activity
