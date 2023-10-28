@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
         val enteredPassword = passwordEditText.text.toString()
 
         val correctCredentials = mapOf(
-            "" to "",
+            "" to "",  //for testing, allows you to login when the fields are empty
             "john" to "password",
             // usernames and password list goes here
         )
