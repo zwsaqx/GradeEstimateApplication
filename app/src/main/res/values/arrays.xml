@@ -13,8 +13,9 @@
     <!-- Custom Arrays -->
     <string-array name="dropdown_options">
         <item>COMP500 - Programming 1</item>
-        <item>other option</item>
-        <item>COMP835 - Secret class</item>
+        <item>COMP632 - Engineering Design</item>
+        <item>COMP835 - Embedded Software</item>
+        <item>COMP722 - Management 2</item>
     </string-array>
 
 </resources>
